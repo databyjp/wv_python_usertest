@@ -1,0 +1,26 @@
+v good
+
+tried to run results.xxx rather than results[0].xxx
+
+generative - confused by param name
+liked grouped task
+not sure about combined results -> per object and grouped task?
+
+should it be results.objects in all cases, including when not
+
+looks for consistency in objects
+
+get needs a filter
+
+Could have delete_by_id vs delete
+
+authors.data
+Delete class? Hidden method? __delete?
+
+maybe put `generate` inside each search?
+
+
+
+
+
+asked me to use `client.collection.get("Article")` to run tests

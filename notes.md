@@ -16,6 +16,8 @@ pip install -U "git+https://github.com/weaviate/weaviate-python-client.git@pydan
 pip install -U "git+https://github.com/weaviate/weaviate-python-client.git@grpc_batch#egg=weaviate-client[GRPC]"
 
 
+pip install -U "git+https://github.com/weaviate/weaviate-python-client.git@grpc_vectorizer_auth#egg=weaviate-client[GRPC]"
+
 pip install -U "git+https://github.com/weaviate/weaviate-python-client.git@grpc_client#egg=weaviate-client[GRPC]"
 pip install -U "git+https://github.com/weaviate/weaviate-python-client.git@filters2#egg=weaviate-client[GRPC]"
 
